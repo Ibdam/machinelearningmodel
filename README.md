@@ -1,1 +1,1 @@
-# This repository contain all the project habe embarked on machine learning
+# This repository contain all the project have embarked on machine learning
